@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98df2da641b3e4d438d38683b349ab14, type: 3}
+  m_Name: "Ingl\xE9sTraduction"
+  m_EditorClassIdentifier: 
+  language1: '"When you''re on the court it''s not about being liked, what matters
+    is playing at a high level and helping your team win." - LeBron James'
+  language2: '"I am the first, the second and the third best player in the world."
+    - Cristiano Ronaldo'
+  language3: '"I don''t think things change on their own, you have to make them change
+    and I''ll do my best to change." - Rafa Nadal'
+  language4: '"Don''t let anyone work harder than you." - Serena Williams'

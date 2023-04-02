@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98df2da641b3e4d438d38683b349ab14, type: 3}
+  m_Name: CatalanTranduction
+  m_EditorClassIdentifier: 
+  language1: "\u201CQuan ets a la pista no es tracta d'agradar, el que importa \xE9s
+    jugar a un nivell alt i ajudar al teu equip a guanyar.\u201D - LeBron James"
+  language2: "\"S\xF3c el primer, el segon i el tercer millor jugador del m\xF3n.\"
+    - Cristiano Ronaldo"
+  language3: "\u201CNo crec que les coses canvi\xEFn per si soles, les has de fer
+    canviar i jo far\xE9 el possible per canviar.\u201D - Rafa Nadal"
+  language4: "\"No deixis que ning\xFA treballi m\xE9s dur que t\xFA\". - Serena
+    Williams"
